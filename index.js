@@ -1,3 +1,3 @@
-const { Unrendered } = require('Unrendered')
+const { Unrendered } = require('./lib/Unrendered')
 
 module.exports = { Unrendered }
